@@ -66,5 +66,5 @@ Este proyecto comenzó como una implementación en IBM Cloud y evolucionó a una
 
 ## 👤 Autor
 
-**[Gerónimo Pautazzo]**
+**Gerónimo Pautazzo**
 * [LinkedIn]([https://www.linkedin.com/in/gero-pautazzo-88900325a/])
