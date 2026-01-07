@@ -4,6 +4,13 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=flat)
 
+![Demo del Proyecto](AnimationQABot.gif)
+<div align="center">
+  <img src="AnimationQABot.gif" width="100%" />
+  <p><i>Demostración en tiempo real: Análisis de PDF y respuesta con RAG</i></p>
+</div>
+
+
 ## 📖 Descripción del Proyecto
 
 **QABot** es una herramienta de Inteligencia Artificial diseñada para "conversar" con documentos PDF. Utiliza una arquitectura **RAG (Retrieval-Augmented Generation)** moderna y 100% Open Source.
